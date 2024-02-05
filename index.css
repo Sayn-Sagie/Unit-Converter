@@ -9,7 +9,7 @@ body {
     min-height:100vh;
     justify-content: center;
     align-items: center;
-    background: black;
+    background: url("3.jpg") no-repeat;
     background-position: center;
     background-size: cover;
     padding: 75px;
